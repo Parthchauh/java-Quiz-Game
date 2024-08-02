@@ -53,7 +53,7 @@ Follow these steps to set up the project on your local machine:
        username VARCHAR(255) NOT NULL,
        email VARCHAR(255) NOT NULL,
        password VARCHAR(255) NOT NULL
-   );```
+   );
 
 ## Running the Project
 
