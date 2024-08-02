@@ -63,5 +63,4 @@ Follow these steps to set up the project on your local machine:
 
    ```bash
    javac -cp .;"D:\java folder\test\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0.jar" QuizGame.java
-
-    
+   java -cp .;"D:\java folder\test\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0.jar" QuizGame
