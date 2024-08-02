@@ -56,5 +56,9 @@ Follow these steps to set up the project on your local machine:
    );
 
 4. **To run this:**
-open terminal and paste this command:- javac -cp .;"D:\java folder\test\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0.jar" QuizGame.java
-now to run it use this command:- java -cp .;"D:\java folder\test\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0.jar" QuizGame
+open terminal and paste this command:- ```bash
+    javac -cp .;"D:\java folder\test\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0.jar" QuizGame.java
+    ```
+now to run it use this command:- ```bash
+    java -cp .;"D:\java folder\test\mysql-connector-j-9.0.0\mysql-connector-j-9.0.0.jar" QuizGame
+    ```
